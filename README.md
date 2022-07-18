@@ -42,6 +42,7 @@
 [<img  alt="Git" height = "25px" src="https://img.shields.io/badge/-Git-F05032.svg?logo=&style=for-the-badge" />][git]
 [<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-Github-181717.svg?logo=&style=for-the-badge" />][github]
 [<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-php-1CDA92.svg?logo=&style=for-the-badge" />][php]
+[<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-sql-CB3837.svg?logo=&style=for-the-badge" />][sql]
 
 <br/>
 <br/>
@@ -81,3 +82,4 @@
 [appcode]: https://www.jetbrains.com/objc/
 [vue]: https://vuejs.org
 [typescript]: https://www.typescriptlang.org
+[SQL]: https://www.mysql.com/
