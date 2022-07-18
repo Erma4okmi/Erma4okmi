@@ -1,4 +1,4 @@
-### Hi there, I'm Misha - aka [Erma4okmi] [website] 🖖🏼
+### Hi there, I'm Misha🖖🏼
 
 ## I am a full stack web/mobile developer!
 - 🇷🇺 I'm from Russia, Nadym
