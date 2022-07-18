@@ -46,16 +46,10 @@
 <br/>
 <br/>
 <br/>
-
-### 🎧 Spotify now playing
-
-[![Spotify](https://novatorem.delet-dis.vercel.app/api/spotify)](https://open.spotify.com/user/7q8785duio2xdpwrsmpxim2qq)
-
-[website]: https://vk.com/delet_dis
-[instagram]: https://instagram.com/delet_dess
-[second-fsd-task]: https://github.com/delet-dis/fsd-second
-[elementary-launcher]: https://github.com/delet-dis/ElementaryLauncher
-[telegram]: https://t.me/delet_dis
+[website]: https://vk.com/id455717947
+[instagram]: https://instagram.com/
+[second-fsd-task]: https://github.com/Erma4okmi/Erma4okmi
+[telegram]: https://t.me/erm_ndm
 
 [vs-code]: https://code.visualstudio.com
 [html5]: https://dev.w3.org/html5/html-author
@@ -74,6 +68,7 @@
 [android-studio]: https://developer.android.com/studio
 [kotlin]: https://kotlinlang.org/
 [java]: https://www.java.com/
+[php]: https://php.com/
 [postman]: https://www.postman.com/
 [jetpack]: https://developer.android.com/jetpack
 [github-actions]: https://github.com/features/actions
