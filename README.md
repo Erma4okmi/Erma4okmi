@@ -41,7 +41,7 @@
 [<img  alt="Github actions" height="25px" src="https://img.shields.io/badge/-Github actions-2F6EFB.svg?logo=&style=for-the-badge" />][github-actions]
 [<img  alt="Git" height = "25px" src="https://img.shields.io/badge/-Git-F05032.svg?logo=&style=for-the-badge" />][git]
 [<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-Github-181717.svg?logo=&style=for-the-badge" />][github]
-[<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-php-181717.svg?logo=&style=for-the-badge" />][php]
+[<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-php-1CDA92.svg?logo=&style=for-the-badge" />][php]
 
 <br/>
 <br/>
