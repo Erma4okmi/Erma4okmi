@@ -4,7 +4,9 @@
 - 🇷🇺 I'm from Russia, Nadym
 - 👨🏻‍💻 I'am currently working on a social network application!
 - 👨🏻‍🎓 I’m currently learning NodeJS and SwiftUI!
+- 🚀 Participant of the first IT-Form of YNAO.
 - ✅ Goals for 2022: Continue learning Android and iOS programming and successfully open a social network.
+
 
 ### ☎️ Connect with me:
 
