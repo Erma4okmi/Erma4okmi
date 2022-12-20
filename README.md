@@ -17,7 +17,7 @@
 
 ### 💪🏻 Tech stack:
 
-[<img  alt="Kotlin" height="25px" src="https://img.shields.io/badge/-Kotlin-B24DFF.svg?logo=&style=for-the-badge" />][kotlin]
+[<img  alt="C" height="25px" src="https://img.shields.io/badge/-Kotlin-B24DFF.svg?logo=&style=for-the-badge" />][C]
 [<img  alt="Android Jetpack" height="25px" src="https://img.shields.io/badge/-Android Jetpack-67C951.svg?logo=&style=for-the-badge" />][jetpack]
 [<img  alt="Android Studio" height="25px" src="https://img.shields.io/badge/-Android%20studio-A4C639.svg?logo=&style=for-the-badge" />][android-studio]
 [<img  alt="Java" height="25px" src="https://img.shields.io/badge/-Java-007396.svg?logo=&style=for-the-badge" />][java]
@@ -72,7 +72,7 @@
 [travisci]: https://travis-ci.org/
 [idea]: https://www.jetbrains.com/idea/
 [android-studio]: https://developer.android.com/studio
-[kotlin]: https://kotlinlang.org/
+[C]: https://metanit.com/cpp/c/
 [java]: https://www.java.com/
 [php]: https://php.com/
 [postman]: https://www.postman.com/
