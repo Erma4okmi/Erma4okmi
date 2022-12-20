@@ -17,7 +17,7 @@
 
 ### 💪🏻 Tech stack:
 
-[<img  alt="C" height="25px" src="https://img.shields.io/badge/-Cpp-B24DFF.svg?logo=&style=for-the-badge" />][C]
+[<img  alt="C" height="25px" src="https://img.shields.io/badge/-C++-B24DFF.svg?logo=&style=for-the-badge" />][C]
 [<img  alt="Android Jetpack" height="25px" src="https://img.shields.io/badge/-Android Jetpack-67C951.svg?logo=&style=for-the-badge" />][jetpack]
 [<img  alt="Android Studio" height="25px" src="https://img.shields.io/badge/-Android%20studio-A4C639.svg?logo=&style=for-the-badge" />][android-studio]
 [<img  alt="Java" height="25px" src="https://img.shields.io/badge/-Java-007396.svg?logo=&style=for-the-badge" />][java]
