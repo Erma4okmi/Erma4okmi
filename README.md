@@ -1,11 +1,11 @@
 ### Hi there, I'm Misha🖖🏼
 
 ## I am a full stack web/mobile developer!
-- 🇷🇺 I'am from Russia, Nadym
-- 👨🏻‍💻 I'am currently working on a social network application!
-- 👨🏻‍🎓 I’am currently learning NodeJS and SwiftUI!
-- 🚀 Participant of the first IT-Form of YNAO.
-- ✅ Goals for 2022: Continue learning Android and iOS programming and successfully open a social network.
+- 🇬🇧 I'm from Russia, Nadym
+- 👨🏻‍💻 Now I'm working on a project to transport people.
+- 👨🏻‍🎓 Now I'm learning Dart and Flutter!
+- 🚀 Member of the first IT-form of YNAO.
+- ✅ Goals for 2023: Continue building the Android and iOS project and finish the year successfully.
 
 
 ### ☎️ Connect with me:
