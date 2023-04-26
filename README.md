@@ -27,6 +27,7 @@
 [<img  alt="TypeScript" height="25px" src="https://img.shields.io/badge/-TypeScript-2C7489.svg?logo=&style=for-the-badge" />][typescript]
 [<img  alt="HTML5" height="25px" src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=&style=for-the-badge" />][html5]
 [<img  alt="CSS3" height="25px" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=&style=for-the-badge" />][css3]
+[<img  alt="dart" height="25px" src="https://img.shields.io/badge/-dart-0ACF83.svg?logo=&style=for-the-badge" />][dart]
 [<img  alt="Sass" height="25px" src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=&style=for-the-badge" />][sass]
 [<img  alt="JavaScript" height="25x" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=&style=for-the-badge" />][js]
 [<img  alt="NPM" height="25px" src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=&style=for-the-badge" />][npm]
@@ -35,7 +36,7 @@
 [<img  alt="Git" height = "25px" src="https://img.shields.io/badge/-Git-F05032.svg?logo=&style=for-the-badge" />][git]
 [<img  alt="GitHub" height="25px" src="https://img.shields.io/badge/-Github-181717.svg?logo=&style=for-the-badge" />][github]
 [<img  alt="php" height="25px" src="https://img.shields.io/badge/-php-1CDA92.svg?logo=&style=for-the-badge" />][php]
-[<img  alt="dart" height="25px" src="https://img.shields.io/badge/-dart-1CDA92.svg?logo=&style=for-the-badge" />][dart]
+[<img  alt="dart" height="25px" src="https://img.shields.io/badge/-dart-2964D6.svg?logo=&style=for-the-badge" />][dart]
 
 <br/>
 <br/>
@@ -67,5 +68,5 @@
 [vue]: https://vuejs.org
 [typescript]: https://www.typescriptlang.org
 [SQL]: https://www.mysql.com/
-[dart]: https://www.mysql.com/
-[flutter]: https://www.mysql.com/
+[dart]: https://dart.dev
+[flutter]: https://flutter.dev/
