@@ -1,11 +1,11 @@
 ### Hi there, I'm Misha🖖🏼
 
 ## I am a full stack web/mobile developer!
-- 🇬🇧 I'm from Russia, St.Petersburg
-- 👨🏻‍💻 Now I'm working on a project to transport people.
-- 👨🏻‍🎓 Now I'm learning Dart and Flutter!
+- 🇷🇺 I'm from Russia, St.Petersburg
+- 👨🏻‍💻 I am currently working on a project for a license plate access control system.
+- 👨🏻‍🎓 I study artificial intelligence and machine vision!
 - 🚀 Member of the first IT-form of YNAO.
-- ✅ Goals for 2023: Continue building the Android and iOS project and finish the year successfully.
+- ✅ Goals for 2024-2025: Work, work and work again in the Ministry of Culture of the Russian Federation, and also develop my projects.
 
 
 ### ☎️ Connect with me:
@@ -43,7 +43,7 @@
 [website]: https://vk.com/id455717947
 [instagram]: https://instagram.com/
 [second-fsd-task]: https://github.com/Erma4okmi/Erma4okmi
-[telegram]: https://t.me/erm_ndm
+[telegram]: https://t.me/bebehAB
 
 [vs-code]: https://code.visualstudio.com
 [html5]: https://dev.w3.org/html5/html-author
