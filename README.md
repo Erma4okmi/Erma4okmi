@@ -1,7 +1,7 @@
 ### Hi there, I'm Misha🖖🏼
 
 ## I am a full stack web/mobile developer!
-- 🇬🇧 I'm from Russia, Nadym
+- 🇬🇧 I'm from Russia, St.Petersburg
 - 👨🏻‍💻 Now I'm working on a project to transport people.
 - 👨🏻‍🎓 Now I'm learning Dart and Flutter!
 - 🚀 Member of the first IT-form of YNAO.
